@@ -72,24 +72,18 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
+<p><strong><a href="#project1">Project 1:</a></strong> Stock Market Price Prediction;</p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Stock Market Price Prediction</h3>
 <p>
   This project involved designing and developing a basic functional module using the core concepts taught in the course.
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/ganeshv6/Stock-Price-Prediction/blob/f3f6defa0791004de1df7f4bddfd38516c818e8b/SURE%20Trust%20project%20report%20%5BGanesh%5D.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
