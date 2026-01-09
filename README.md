@@ -19,7 +19,7 @@
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
     <p><strong>Name:</strong> GANESH V </p>
-    <p><strong>Email ID:</strong> 2ganesh5588@gmail.com </p>
+    <p><strong>Email ID:</strong> ganeshvg7ds@gmail.com </p>
     <p><strong>College Name:</strong> Jain Institute of Technology </p>
     <p><strong>Branch/Specialization :</strong> Computer Science and Engineering </p>
     <p><strong>College ID:</strong> C-45310 </p>
