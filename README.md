@@ -63,11 +63,9 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During the six-month internship in the Data Science domain, we gained comprehensive exposure to the complete data analytics and machine learning lifecycle. We learned to use Excel for data cleaning, exploratory analysis, pivot tables, and basic statistical operations, which helped in understanding datasets at an initial level. Through SQL, we developed skills in data extraction, filtering, joins, aggregations, and query optimization for handling structured databases.
 
+Using Python, we performed data preprocessing, visualization, and analysis with libraries such as Pandas, NumPy, and Matplotlib. We implemented various machine learning models for prediction and classification tasks and learned how to evaluate them using appropriate performance metrics. We also gained hands-on experience in creating interactive Power BI dashboards, which helped in presenting insights clearly to non-technical stakeholders. Additionally, we were introduced to deep learning concepts, including neural networks and LSTM models, enabling us to understand advanced pattern learning in complex datasets. Overall, the internship strengthened both our technical and analytical skills.
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
@@ -79,31 +77,10 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <!-- Project 1 -->
 <h3 id="project1">Project 1: Stock Market Price Prediction</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  This project focuses on stock price prediction using data science techniques, combining LSTM (Long Short-Term Memory) and ARIMA models to forecast short-term stock price movements. Historical stock market data collected from Yahoo Finance is analyzed through Exploratory Data Analysis to understand trends, volatility, and stationarity. The system predicts next-day and next-7-day prices and evaluates performance using metrics such as RMSE and MAE. A Streamlit-based dashboard is developed to present predictions and insights interactively. The project demonstrates the practical application of machine learning and statistical models in financial forecasting and decision support.
 </p>
 <p>
   <a href="https://github.com/ganeshv6/Stock-Price-Prediction/blob/f3f6defa0791004de1df7f4bddfd38516c818e8b/SURE%20Trust%20project%20report%20%5BGanesh%5D.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
@@ -112,16 +89,18 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 ## **References**
 
 - [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+- [Microsoft Excel official support](https://support.microsoft.com/en-us/excel)
+- [Python Official Documentation](https://docs.python.org/3/)
+- [W3Schools](https://www.w3schools.com/)
+- [Visiual Studio Code Documentation](https://code.visualstudio.com/docs)
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+<p>The Life Skills Training (LST) and Soft Skills Training (SST) sessions had a significant impact on my overall growth during the internship. These weekly sessions emphasized the importance of discipline, consistency, leadership qualities, time management, and maintaining a positive attitude in both academic and professional environments. I realized how discipline and structured effort contribute to achieving long-term goals, while leadership and adaptability help in navigating challenges effectively.</p>
+<p>Alongside personal development, the sessions greatly enhanced my communication skills. I learned how to express ideas clearly through effective verbal communication, active listening, and confident body language. Structured presentations and group discussions gave me the confidence to present my thoughts professionally. The SST sessions also prepared me for interviews by focusing on resume explanation, handling HR and technical questions, and approaching interview scenarios with composure and confidence.</p>
+<p>Moreover, the training highlighted the importance of teamwork, adaptability, and professional ethics in the workplace. These qualities not only improved my professionalism but also strengthened my leadership mindset and readiness to face real-world corporate challenges. Overall, the LST and SST sessions boosted my confidence, refined my skills, and equipped me with the right attitude to succeed in both academic and professional journeys.</p>
+
 
 ## **Community Services**
 
@@ -180,4 +159,5 @@ The internship certificate serves as an official acknowledgment of the successfu
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
+- [Bhargavesh Dakka](https://www.linkedin.com/in/bhargavesh-dakka?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) , Decision Scientist at MuSigma, Mentor - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
